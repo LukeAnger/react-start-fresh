@@ -1,6 +1,5 @@
 
 const App = () => {
-  const [conversations, setConversations] = useState([]);
 
   return (
     <div className="chat-container">
